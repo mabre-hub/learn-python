@@ -1,3 +1,5 @@
+# by Monika Lopatniuk and Luca Marie Mahlke
+
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy import integrate
